@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.onyi {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: yellow;
+    color: #003566;
+    border-bottom: 2px solid black;
+}
+
+.italic {
+font-style: italic;
+}
+
+.border-blueviolet {
+  border: 6px dotted  blueviolet;  
+}
